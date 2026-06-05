@@ -1,0 +1,2 @@
+[console_scripts]
+sva-gen = sva_gen.cli:main
